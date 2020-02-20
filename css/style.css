@@ -139,7 +139,7 @@ Navbar
 
 nav.navbar{
 	position: fixed;
-	top: -72px;
+	top: 0px;
 	margin-bottom: 0px;
 	padding: 10px 0px 10px 0px;
 	width: 100%;
@@ -153,6 +153,7 @@ nav.navbar{
 
 nav.navbar.fixed-to-top{
 	top: 0px;
+	background-color: #363636;
 }
 
 .navbar-default{

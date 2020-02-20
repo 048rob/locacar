@@ -86,15 +86,15 @@
 
   }
 
-  function navbar() {
+  // function navbar() {
 
-    if ($(window).scrollTop() > 1) {
-      $('#navigation').addClass('show-nav');
-    } else {
-      $('#navigation').removeClass('show-nav');
-    }
+  //   if ($(window).scrollTop() > 1) {
+  //     $('#navigation').addClass('show-nav');
+  //   } else {
+  //     $('#navigation').removeClass('show-nav');
+  //   }
 
-  }
+  // }
 
   $(document).ready(function () {
 
