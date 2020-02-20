@@ -35,11 +35,11 @@
 			},
 			position: {
 				getLeft: function($elem) { return parseInt($elem.css('left'), 10) * -1; },
-				getTop: function($elem) { return parseInt($elem.css('top'), 10) * -1; }
+				getTop: function($elem) { return parseInt($elem.css('top'), 50) * -1; }
 			},
 			margin: {
 				getLeft: function($elem) { return parseInt($elem.css('margin-left'), 10) * -1; },
-				getTop: function($elem) { return parseInt($elem.css('margin-top'), 10) * -1; }
+				getTop: function($elem) { return parseInt($elem.css('margin-top'), 72) * -1; }
 			},
 			transform: {
 				getLeft: function($elem) {

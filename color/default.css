@@ -21,7 +21,7 @@ a, a:hover {
 }
 
 .navbar-default {
-  background: #363636;
+  background-color: rgba(0, 0, 0, 0);
 }
 
 .form-control:focus {
